@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: rgb(203, 135, 176);
+  padding: 20px;
+}
+a {
+  color: rgb(107, 122, 219);
+}
+img {
+  margin: 30% auto;
+  display: block;
+  border-radius: 10px;
+  margin-top: 10px;
+  max-width: 100%;
+}
+.link {
+  display: flex;
+  justify-content: space-between;
+}
